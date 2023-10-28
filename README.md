@@ -15,7 +15,7 @@
 * [Histórias de Usuário](#histórias-de-usuário)
 * [Testes de Usabilidade](#testes-de-usabilidade)
 * [Protótipo de Alta Fidelidade](#protótipo-de-alta-fidelidade)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demosntração-da-aplicação)
+* [Funcionalidades](#funcionalidades)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 * [Implementações Futuras](#implementações-futuras)
@@ -33,3 +33,21 @@ Desenvolvemos um formulário para que os usuários preenchessem após fazer o te
 ## Protótipo de Alta Fidelidade
 Criamos um protótipo de alta fidelidade utilizando a ferramenta Figma. O protótipo é interativo e está disponível no link abaixo:<br>
 https://www.figma.com/proto/K44pKXuVtuTWPo1Vzr4Lix/My-Trip---Prot%C3%B3tipo-de-Alta?page-id=106%3A52&type=design&node-id=120-1746&viewport=-36%2C376%2C0.5&t=B4Fa209oToF03piI-1&scaling=scale-down&starting-point-node-id=120%3A1746&mode=design
+## Funcionalidades
+- Entrar na rede social através do login com Google;
+- Cadastro de novos usuários;
+- Postagens no feed;
+- Editar e deletar publicações.
+## Acesso ao Projeto
+
+## Tecnologias Utilizadas
+
+## Implementações Futuras
+- Curtir publicações;
+- Editar perfil do usuário;
+- Adicionar localização nas postagens;
+- Adicionar imagens nas publicações;
+- Testes assíncronos;
+- Testes Unitários.
+## Desenvolvedoras do Projeto
+
